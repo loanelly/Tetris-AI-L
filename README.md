@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://github.com/loanelly/Tetris-AI-L/blob/main/Screenshots/2.png" width="45%" alt="Главное меню" />
-  <img src="https://github.com/loanelly/Tetris-AI-L/blob/main/Screenshots/1.png" width="45%" alt="Игровой процесс" />
+  <img src="https://github.com/loanelly/Tetris-AI-L/blob/main/Screenshots/1.png" width="50.555%" alt="Игровой процесс" />
 </p>
 
 ---
